@@ -1,0 +1,88 @@
+data_36554-ICSD
+_database_code_ICSD                36554
+_audit_creation_date               1992/08/20
+_audit_update_record               1997/11/10
+_chemical_name_systematic          'Lead Carbonate'
+_chemical_formula_structural       'Pb C O3'
+_chemical_formula_sum              'C1 O3 Pb1'
+_chemical_name_mineral             Cerussite
+_publ_section_title
+;
+Neutron single-crystal refinement of cerussite, PbCO3, and comparison 
+with other aragonite-type carbonates
+;
+loop_
+_citation_id
+_citation_journal_abbrev
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (149,1979-)' 1992 199 67 74 ZEKRDZ
+loop_
+_publ_author_name
+'Chevrier, G.'
+'Giester, G.'
+'Heger, G.'
+'Jarosch, D.'
+'Wildner, M.'
+'Zemann, J.'
+_cell_length_a                     5.179(1)
+_cell_length_b                     8.492(3)
+_cell_length_c                     6.141(2)
+_cell_angle_alpha                  90.
+_cell_angle_beta                   90.
+_cell_angle_gamma                  90.
+_cell_volume                       270.08
+_cell_formula_units_Z              4
+_symmetry_space_group_name_H-M     'P m c n'
+_symmetry_Int_Tables_number        62
+_refine_ls_R_factor_all            0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1	'x, -y+1/2, z+1/2'
+  2	'-x+1/2, y, z'
+  3	'x+1/2, y+1/2, -z+1/2'
+  4	'-x, -y, -z'
+  5	'-x, y+1/2, -z+1/2'
+  6	'x+1/2, -y, -z'
+  7	'-x+1/2, -y+1/2, z+1/2'
+  8	'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+   	4
+O2-   	-2
+Pb2+  	2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 c 0.25 0.41702(7) 0.24560(12) 1. 0 
+C1 C4+ 4 c 0.25 0.76221(11) 0.08718(15) 1. 0 
+O1 O2- 4 c 0.25 0.91299(14) 0.09649(20) 1. 0 
+O2 O2- 8 d 0.46445(14) 0.68597(9) 0.08893(14) 1. 0 
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0115(2) 0.0101(2) 0.0110(2) 0 0 0.0001(3)
+C1 C4+ 0.0098(4) 0.0107(4) 0.0087(3) 0 0 0.0000(3)
+O1 O2- 0.0206(5) 0.0116(4) 0.0183(5) 0 0 0.0028(5)
+O2 O2- 0.0110(3) 0.0181(3) 0.0216(4) 0.0032(3) 0.0011(3) -.0033(3)
+
+

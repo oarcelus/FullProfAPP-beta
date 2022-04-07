@@ -1,0 +1,14 @@
+! Resolution Function of LURE diffractometer ireso    1
+! To be used with IRESO=1 in FullProf.2k (version > 2.4)
+!     Lambda1    Lambda2   Ratio(I2/I1)
+WAVE   0.96270    0.96270      0.0
+!    NPROF    Shape1    Shape2   Shape3
+PROF    7        0.0       0.0      0.0
+!  Cos(2thM)^2 for polarization = 0 for neutrons
+CTHM  0.0
+!     2theta-min   step   2theta-max
+THRG     2.0       0.01      130.00
+!       S_L        D_L
+ASYM   0.00       0.00
+!   Uins      Vins         Wins      Xins      Yins      Zins
+ 0.000000   0.000000   0.001982   0.165640    0.0000     0.000
